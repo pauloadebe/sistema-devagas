@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "company": "Empresa A",
+        "title": "Desenvolvedor Web",
+        "logo": "https://via.placeholder.com/50",
+        "description": "Desenvolver e manter aplicações web modernas.",
+        "responsibilities": [
+            "Desenvolver novos recursos para o sistema.",
+            "Colaborar com o time de design e produto."
+        ],
+        "requirements": [
+            "Experiência com HTML, CSS e JavaScript.",
+            "Conhecimento em frameworks como React ou Angular."
+        ],
+        "howToApply": "Envie seu CV para contato@empresaa.com"
+    },
+    {
+        "id": 2,
+        "company": "Empresa B",
+        "title": "Designer Gráfico",
+        "logo": "https://via.placeholder.com/50",
+        "description": "Criar materiais visuais para campanhas de marketing.",
+        "responsibilities": [
+            "Desenvolver layouts para mídias digitais.",
+            "Trabalhar com equipes de marketing e produto."
+        ],
+        "requirements": [
+            "Experiência com ferramentas como Photoshop e Illustrator.",
+            "Portfólio com projetos relevantes."
+        ],
+        "howToApply": "Envie seu portfólio para contato@empresab.com"
+    }
+    
+]
