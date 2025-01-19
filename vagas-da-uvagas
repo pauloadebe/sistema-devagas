@@ -31,6 +31,26 @@
     },
     {
         "id": 4,
+        "empresa": "CodeLab",
+        "vaga": "Engenheiro de Dados",
+        "descricao": "Gerenciar pipelines de dados.",
+        "responsabilidades": "Manter e otimizar sistemas de dados.",
+        "requisitos": "SQL, Python, Spark.",
+        "candidatar": "Acesse www.codelab.com/carreiras",
+        "logo": "codelab-logo.png"
+    },
+    {
+        "id": 5,
+        "empresa": "CodeLab",
+        "vaga": "Engenheiro de Dados",
+        "descricao": "Gerenciar pipelines de dados.",
+        "responsabilidades": "Manter e otimizar sistemas de dados.",
+        "requisitos": "SQL, Python, Spark.",
+        "candidatar": "Acesse www.codelab.com/carreiras",
+        "logo": "codelab-logo.png"
+    },
+    {
+        "id": 6,
         "empresa": "Ad3be Kendall Artworks",
         "vaga": "Designer Gráfico Sénior",
         "descricao": "Gerenciar pipelines de dados.",
