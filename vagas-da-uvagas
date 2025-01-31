@@ -1,57 +1,57 @@
 [
     {
         "id": 1,
-        "empresa": "TechCorp",
+        "empresa": "BCI | Maputo",
         "vaga": "Desenvolvedor Front-End",
         "descricao": "Atuar no desenvolvimento de interfaces.",
         "responsabilidades": "Criar e manter interfaces responsivas.",
         "requisitos": "HTML, CSS, JavaScript, React.",
         "candidatar": "Envie seu currículo para recrutamento@techcorp.com",
-        "logo": "techcorp-logo.png"
+        "logo": "https://raw.githubusercontent.com/pauloadebe/sistema-devagas/refs/heads/main/logos-das-empresas/bci.jpg"
     },
     {
         "id": 2,
-        "empresa": "CodeLab",
+        "empresa": "CBE | Maputo",
         "vaga": "Engenheiro de Dados",
         "descricao": "Gerenciar pipelines de dados.",
         "responsabilidades": "Manter e otimizar sistemas de dados.",
         "requisitos": "SQL, Python, Spark.",
         "candidatar": "Acesse www.codelab.com/carreiras",
-        "logo": "codelab-logo.png"
+        "logo": "https://raw.githubusercontent.com/pauloadebe/sistema-devagas/refs/heads/main/logos-das-empresas/cbe.jpg"
     },
     {
         "id": 3,
-        "empresa": "CodeLab",
-        "vaga": "Engenheiro de Dados",
+        "empresa": "Cervejas de Moçambique | Nampula",
+        "vaga": "Motoristas",
         "descricao": "Gerenciar pipelines de dados.",
         "responsabilidades": "Manter e otimizar sistemas de dados.",
         "requisitos": "SQL, Python, Spark.",
         "candidatar": "Acesse www.codelab.com/carreiras",
-        "logo": "codelab-logo.png"
+        "logo": "https://raw.githubusercontent.com/pauloadebe/sistema-devagas/refs/heads/main/logos-das-empresas/cdm.jpg"
     },
     {
         "id": 4,
-        "empresa": "CodeLab",
-        "vaga": "Engenheiro de Dados",
+        "empresa": "Coca-cola | Quelimane",
+        "vaga": "Supervisor de turnos",
         "descricao": "Gerenciar pipelines de dados.",
         "responsabilidades": "Manter e otimizar sistemas de dados.",
         "requisitos": "SQL, Python, Spark.",
         "candidatar": "Acesse www.codelab.com/carreiras",
-        "logo": "codelab-logo.png"
+        "logo": "https://raw.githubusercontent.com/pauloadebe/sistema-devagas/refs/heads/main/logos-das-empresas/cocacola.png"
     },
     {
         "id": 5,
-        "empresa": "CodeLab",
-        "vaga": "Engenheiro de Dados",
+        "empresa": "Cruz Vermelha | Maputo",
+        "vaga": "Contabilista Senior",
         "descricao": "Gerenciar pipelines de dados.",
         "responsabilidades": "Manter e otimizar sistemas de dados.",
         "requisitos": "SQL, Python, Spark.",
         "candidatar": "Acesse www.codelab.com/carreiras",
-        "logo": "codelab-logo.png"
+        "logo": "https://raw.githubusercontent.com/pauloadebe/sistema-devagas/refs/heads/main/logos-das-empresas/cruz-vermelha.jpg"
     },
     {
         "id": 6,
-        "empresa": "Ad3be Kendall Artworks",
+        "empresa": "Ad3be Kendall Artworks | Pemba",
         "vaga": "Designer Gráfico Sénior",
         "descricao": "Gerenciar pipelines de dados.",
         "responsabilidades": "Manter e otimizar sistemas de dados.",
